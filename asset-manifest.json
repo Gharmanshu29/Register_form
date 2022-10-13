@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Register_form/static/css/main.07ff4398.css",
+    "main.js": "/github.io/Register_form/static/js/main.abf5543c.js",
+    "static/js/787.b707c01a.chunk.js": "/github.io/Register_form/static/js/787.b707c01a.chunk.js",
+    "index.html": "/github.io/Register_form/index.html",
+    "main.07ff4398.css.map": "/github.io/Register_form/static/css/main.07ff4398.css.map",
+    "main.abf5543c.js.map": "/github.io/Register_form/static/js/main.abf5543c.js.map",
+    "787.b707c01a.chunk.js.map": "/github.io/Register_form/static/js/787.b707c01a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ff4398.css",
+    "static/js/main.abf5543c.js"
+  ]
+}
